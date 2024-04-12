@@ -127,3 +127,5 @@ fabric.properties
 # modules.xml
 
 .idea/
+.idea
+
